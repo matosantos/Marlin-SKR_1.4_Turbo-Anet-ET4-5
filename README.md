@@ -1,3 +1,12 @@
+# Marlin for ET4 / 5 series 3D printers with SRK 1.4 Turbo and TMC2209
+This project was developed shortly after the launch of these printers, which did not allow a Marlin installation and this extreme change was developed in order to mitigate that problem. Comments are welcome.																									   
+## INSTALLATION																		   
+DISCLAIMER: Not suitable for production use. This is an ongoing project. I am not responsible for what may happen to the motherboard or the printer. Use it only at your own risk.
+To install it you will only need to compile it with VSC or similar, use firmware.bin to update.			 
+
+## Acknowledgements
+- A special thanks to [Spanish group Telegram Anet ET4] (https://t.me/anetet4esp) for helping me with this project. Without the joint effort this could not have been done.
+- I would like to thank all the collaborators and testers of the master Marlin branch because without them these projects would not be possible.																				   
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
